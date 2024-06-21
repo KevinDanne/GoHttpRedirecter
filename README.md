@@ -1,4 +1,4 @@
-# GoHttpRedirecter
+# GoHttpRedirector
 
 A simple HTTP request redirector written in go
 
