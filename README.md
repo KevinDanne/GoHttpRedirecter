@@ -1,6 +1,6 @@
 # GoHttpRedirecter
 
-A simple HTTP request redirecter written in go
+A simple HTTP request redirector written in go
 
 ## CLI Arguments
 
